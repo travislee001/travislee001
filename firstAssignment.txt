@@ -1,0 +1,24 @@
+1. What function is used to display information to the console/terminal?
+
+2. Dart is case sensitive. True or False.
+
+3. Declare and initialize 20 integers, 20 Strings, 20 doubles, 20 booleans and 10 each for dynamic and var.
+
+4. What will be the result of the following code?
+    void main(){
+ 	    course = “Dart programming”;
+ 	    print(course);
+    }
+
+    (a) course
+    (b) Dart programming
+    (c) error
+    (d) “Dart programming”
+
+5. Declare and initialize a variable of type int
+ Let the variable name be number
+ Assign the value 20 to the variable
+ And then print your variable name modulos 2. What is the answer?
+
+6. Write a console application that needs a users first name, last name, middle name, phone number, 
+address and pin.
